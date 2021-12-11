@@ -65,7 +65,7 @@ if(isset($_POST["clientID"]) && !empty($_POST["clientID"])){
                             <p>Are you sure you want to delete this client order?</p>
                             <p>
                                 <input type="submit" value="Yes" class="btn btn-danger">
-                                <a href="dash.php" class="btn btn-secondary">No</a>
+                                <a href="Dash.php" class="btn btn-secondary">No</a>
                             </p>
                         </div>
                     </form>
